@@ -10,7 +10,7 @@ namespace CommandAPI.Data
         {
             
         }
-        public DbSet<Command> CommandItem{get;set;}
+        public DbSet<Command> CommandItems{get;set;}
 
     }
 
